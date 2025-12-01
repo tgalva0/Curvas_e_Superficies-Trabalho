@@ -5,7 +5,7 @@
 Este projeto implementa um sistema interativo para gerar curvas e superfícies a partir de pontos fornecidos pelo usuário.
 Calculando a função polinomial (2D) ou a superfície quadrática (3D) que passa pelos pontos especificados, utilizando **Eliminação de Gauss**.
 
-## Além disso, o programa exibe gráficos com Matplotlib!
+Além disso, o programa exibe gráficos com Matplotlib!
 
 ## Funcionalidades
 
